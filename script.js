@@ -1,0 +1,1 @@
+alert("Welcome to my site, by clicking OK you agree to not steal my shit");
